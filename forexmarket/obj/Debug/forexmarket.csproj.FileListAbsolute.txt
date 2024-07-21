@@ -1,0 +1,9 @@
+F:\websiteproject\forexmarket\forexmarket\bin\forexmarket.dll
+F:\websiteproject\forexmarket\forexmarket\bin\forexmarket.pdb
+F:\websiteproject\forexmarket\forexmarket\obj\Debug\forexmarket.dll
+F:\websiteproject\forexmarket\forexmarket\obj\Debug\forexmarket.pdb
+H:\SSD Drive 2\websiteproject\forexmarket\forexmarket\bin\forexmarket.dll
+H:\SSD Drive 2\websiteproject\forexmarket\forexmarket\bin\forexmarket.pdb
+H:\SSD Drive 2\websiteproject\forexmarket\forexmarket\obj\Debug\forexmarket.csprojResolveAssemblyReference.cache
+H:\SSD Drive 2\websiteproject\forexmarket\forexmarket\obj\Debug\forexmarket.dll
+H:\SSD Drive 2\websiteproject\forexmarket\forexmarket\obj\Debug\forexmarket.pdb
